@@ -28,11 +28,11 @@ I’m also an **open source enthusiast** who enjoys learning by building, experi
 **[EKS Cluster with Terraform](https://github.com/elyas-syed/eks-cluster-terrafrom)**  
 Production-ready Amazon EKS cluster built using Terraform, following AWS best practices for networking, security, and scalable infrastructure design.
 
-**[Terraform Kind Kubernetes Cluster](https://github.com/elyas-syed/terraform-kind-k8s-cluster)**  
-Automated provisioning of local Kubernetes clusters using Kind and Terraform for development, testing, and reproducible environments.
-
 **[GitOps with Argo CD](https://github.com/elyas-syed/gitops-argocd-k8s-ci-cd)**  
 Demonstrates declarative GitOps workflows using Argo CD for Kubernetes application delivery and CI/CD best practices.
+
+**[Terraform Kind Kubernetes Cluster](https://github.com/elyas-syed/terraform-kind-k8s-cluster)**  
+Automated provisioning of local Kubernetes clusters using Kind and Terraform for development, testing, and reproducible environments.
 
 **[Terraform Interactive](https://github.com/elyas-syed/terraform-interactive)**  
 Hands-on Terraform learning and patterns repository exploring real-world Infrastructure as Code workflows and modular design.
