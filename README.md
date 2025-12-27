@@ -81,4 +81,6 @@ AI/ML: Cloud-based AI services (AWS Bedrock, Sagemaker)
 ---
 
 ## 📫 Let’s Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/elyas-syed-i
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/elyas-syed-i) [![GitHub](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg)](https://github.com/elyas-syed)
+
+
