@@ -31,7 +31,7 @@ Production-ready Amazon EKS cluster built using Terraform, following AWS best pr
 **[GitOps with Argo CD](https://github.com/elyas-syed/gitops-argocd-k8s-ci-cd)**  
 Demonstrates declarative GitOps workflows using Argo CD for Kubernetes application delivery and CI/CD best practices.
 
-**[Terraform Kind Kubernetes Cluster](https://github.com/elyas-syed/terraform-kind-k8s-cluster)**  
+**[Terraform KIND (Kubernetes in Docker) Cluster](https://github.com/elyas-syed/terraform-kind-k8s-cluster)**  
 Automated provisioning of local Kubernetes clusters using Kind and Terraform for development, testing, and reproducible environments.
 
 **[Terraform Interactive](https://github.com/elyas-syed/terraform-interactive)**  
