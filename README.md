@@ -1,6 +1,6 @@
 # Hi, I’m Elyas! 👋
 
-Cloud Architect | DevOps & Open Source   
+Cloud Architect | Passionate about DevOps & Open Source   
 AWS • Azure • Kubernetes • Terraform • GitOps • Automation
 
 ---
