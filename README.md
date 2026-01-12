@@ -41,15 +41,15 @@ Hands-on Terraform learning and patterns repository exploring real-world Infrast
 
 ## 🛠 Tech Stack
 
-Cloud: AWS, Azure  
-Kubernetes: EKS, GKE, AKS | Docker  
-IaC: Terraform, CloudFormation  
-CI/CD & GitOps: GitHub Actions, GitLab CI, Jenkins, Argo CD  
-Automation: Ansible, Bash, Python  
-OS: Linux (Ubuntu, RedHat), Windows Server  
-Observability: CloudWatch, Prometheus, Grafana, Datadog, New Relic  
-Security: IAM, GuardDuty, Security Hub, Alert Logic, CrowdStrike, Trivy, Snyk  
-AI/ML: Cloud-based AI services (AWS Bedrock, Sagemaker)
+**Cloud:** AWS, Azure  
+**Containers:** EKS, GKE, AKS | Docker  
+**IaC:** Terraform, CloudFormation  
+**CI/CD & GitOps:** GitHub Actions, GitLab CI, Jenkins, Argo CD  
+**Automation:** Ansible, Bash, Python  
+**OS:** Linux (Ubuntu, RedHat), Windows Server  
+**Observability:** CloudWatch, Prometheus, Grafana, Datadog, New Relic  
+**Security:** IAM, GuardDuty, Security Hub, Alert Logic, CrowdStrike, Trivy, Snyk  
+**AI/ML:** Cloud-based AI services (AWS Bedrock, Sagemaker)
 
 ---
 
