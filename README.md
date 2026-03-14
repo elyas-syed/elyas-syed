@@ -59,6 +59,7 @@ Hands-on Terraform learning and patterns repository exploring real-world Infrast
 - CKA, CKAD, KCNA, KCSA  
 
 **AWS & Cloud**
+- AWS DevOps Professional Certificate
 - AWS Solutions Architect – Associate  
 - AWS SysOps Administrator – Associate  
 - AWS Developer – Associate  
