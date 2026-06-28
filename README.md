@@ -11,7 +11,7 @@ I’m also an **open source enthusiast** who enjoys learning by building, experi
 
 ---
 
-## 🔧 What I Work On
+## 🔧 What I am Passionate About
 - Cloud architecture across AWS and Azure environments  
 - Kubernetes platforms and container orchestration (EKS, GKE, AKS)  
 - Infrastructure as Code using Terraform and CloudFormation  
