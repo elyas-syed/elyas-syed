@@ -71,14 +71,6 @@ Hands-on Terraform learning and patterns repository exploring real-world Infrast
 - Microsoft Azure AZ-900  
 - Python PCEP  
 
-
----
-
-## 🌱 Currently Learning 
-- Advanced Kubernetes and platform engineering patterns  
-- AI/ML workloads and integrations on AWS and Azure  
-- Production-grade GitOps, security automation, and observability  
-
 ---
 
 ## 📫 Let’s Connect
