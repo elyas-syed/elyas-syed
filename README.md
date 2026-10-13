@@ -1,11 +1,11 @@
 # Hi, I’m Elyas! 👋
 
 Cloud Architect | Passionate about DevOps & Open Source   
-AWS • Azure • Kubernetes • Terraform • GitOps • Automation
+AWS • Azure • GCP • Kubernetes • Terraform • GitOps • Automation
 
 ---
 
-Hi, I’m Elyas! I enjoy helping organizations modernize their infrastructure, simplify complexity, and turn technical challenges into practical, reliable solutions. I design and build secure, scalable cloud platforms using AWS and Azure, with a strong focus on Kubernetes, Terraform, infrastructure as code, CI/CD, and automation.
+Hi, I’m Elyas! I enjoy helping organizations modernize their infrastructure, simplify complexity, and turn technical challenges into practical, reliable solutions. I design and build secure, scalable cloud platforms using AWS, Azure, and GCP with a strong focus on Kubernetes, Terraform, infrastructure as code, CI/CD, and automation.
 
 I’m also an **open source enthusiast** who enjoys learning by building, experimenting, and contributing where possible.
 
